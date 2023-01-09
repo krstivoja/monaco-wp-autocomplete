@@ -1,4 +1,5 @@
 require.config({ paths: { vs: 'node_modules/monaco-editor/min/vs' } });
+
 require(['vs/editor/editor.main'], function () {
 	php_script = monaco.editor.create(document.getElementById('php_script'), {
 		value: "",
