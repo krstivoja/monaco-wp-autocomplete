@@ -1,0 +1,23 @@
+{
+  "name": "monaco-wp-autocomplete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "admin.js",
+  "dependencies": {
+    "emmet-monaco-es": "^4.7.6",
+    "monaco-editor": "^0.34.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krstivoja/monaco-wp-autocomplete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krstivoja/monaco-wp-autocomplete/issues"
+  },
+  "homepage": "https://github.com/krstivoja/monaco-wp-autocomplete#readme"
+}
