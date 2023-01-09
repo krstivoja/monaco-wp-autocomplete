@@ -20,11 +20,12 @@ require(['vs/editor/editor.main'], function () {
 		wrappingIndent: "indent",
 		automaticLayout: true,
 		lineHeight: 12 * 1.45,
-		fontSize: 12,
+		fontSize: 15,
 		"autoIndent": true,
 		"formatOnPaste": true,
 		"formatOnType": true,
 		'bracketPairColorization.enabled': true,
+		value: '<?php\n\t\n\n\n\?>',
 	});
 	jQuery( window ).resize(function() {
 		php_script.layout({});

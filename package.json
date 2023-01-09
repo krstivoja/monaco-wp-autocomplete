@@ -4,6 +4,7 @@
   "description": "",
   "main": "admin.js",
   "dependencies": {
+    "@wp-hooks/wordpress-core": "^1.3.0",
     "emmet-monaco-es": "^4.7.6",
     "monaco-editor": "^0.34.1"
   },
@@ -19,5 +20,7 @@
   "bugs": {
     "url": "https://github.com/krstivoja/monaco-wp-autocomplete/issues"
   },
-  "homepage": "https://github.com/krstivoja/monaco-wp-autocomplete#readme"
+  "homepage": "https://github.com/krstivoja/monaco-wp-autocomplete#readme",
+  "devDependencies": {
+  }
 }
